@@ -17,7 +17,7 @@ This project demonstrates how network services affect open ports and how Nmap ca
 * Observe how starting and stopping services affects port states
 * Perform service and version detection using Nmap
 
-## Implementstion
+## Implementation
 
 ### Baseline Scan
 
