@@ -112,7 +112,7 @@ Findings:
 
 The aggressive scan identified the HTTP TRACE method as enabled, which may introduce security risks such as Cross-Site Tracing (XST) if not properly restricted.
 
-## Conclusion
+## Notes
 
 This lab demonstrates practical understanding of network scanning, Linux service management, and port-to-service relationships. It highlights how system configuration directly impacts network exposure and security posture.
 
