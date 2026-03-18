@@ -116,6 +116,3 @@ The aggressive scan identified the HTTP TRACE method as enabled, which may intro
 
 This lab demonstrates practical understanding of network scanning, Linux service management, and port-to-service relationships. It highlights how system configuration directly impacts network exposure and security posture.
 
-## Author
-
-Akere Simaze
